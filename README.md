@@ -1,5 +1,6 @@
 # Universal-Physical-Law
 Universal topological-energy law: theory, experiments, and code
+
 УНИВЕРСАЛЬНЫЙ ТОПОЛОГО-ЭНЕРГЕТИЧЕСКИЙ ЗАКОН ЭВОЛЮЦИИ И ДИНАМИЧЕСКОЙ СТАБИЛЬНОСТИ СИСТЕМ (ЗАКОН ОВЧИННИКОВА)
 THE UNIVERSAL TOPOLOGICAL-ENERGY LAW OF EVOLUTION AND DYNAMIC STABILITY OF SYSTEMS (OVCHINNIKOV'S LAW)
 Author: Ovchinnikov S.V.
