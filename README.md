@@ -51,11 +51,5 @@ Simulation UTEL.txt(исходный код реализующий модель)
 Экспериментальные подтверждения - разрушение нихромовой спирали (\lambda\ =\ 8,28), угловая корреляция звёзд в Ковше Большой Медведицы (\lambda\ \geq\ 20).
 Применимость - прогнозирование дефектов материалов, управление фазовыми переходами.
 
-Abstract.
-This work presents a universal law governing system evolution through the dimensionless parameter \lambda. The law unifies quantum, classical, and relativistic phenomena, including - critical points:\ \lambda\ =\ 1 (quantum coherence), \lambda\ =\ 8,28 (bifurcation), \lambda\ =\ 20 (topological collapse).
-Experimental proof -Nichrome wire rupture (\lambda\ =\ 8,28), star angle correlations in Ursa Major (\lambda\ \geq\ 20).
-Applications - material defect prediction, phase transition control.
-
 Ключевые слова: универсальный физический закон, топологическая энергия, \lambda-масштабирование, квантово-классический переход, бифуркация, дефектообразование, промышленная физика
 
-Keywords: universal physical law, topological energy, \lambda-scaling, quantum-classical transition, bifurcation, defect formation, industrial physics
