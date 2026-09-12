@@ -20,7 +20,7 @@ jobs:
 
     - name: Remove duplicates
       run: |
-        FILE="program.py"
+        FILE="Simulation.txt"
         
         # Проверка существования файла
         if [ ! -f "$FILE" ]; then
